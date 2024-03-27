@@ -15,5 +15,9 @@ git status
 '''
 git add .
 '''
+git config --global user.email "aniketvishwakarma569@gmail.com"
+'''
+git commit -m 'sending changes to git hub'
+'''
 git push origin main
 '''
