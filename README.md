@@ -2,6 +2,7 @@
 first project
 1. [git rep link] (https://github.com/Aniket9977/ml_project.git)
 2. [code cheff link]  ( https://www.codechef.com/users/aniket9977)
+3. [sql link ]  (https://www.udemy.com/courses/search/?src=ukw&q=sql+for+data+science)
 
 
 '''
