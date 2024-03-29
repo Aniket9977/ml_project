@@ -1,9 +1,9 @@
-from setuptools import setup
+from setuptools import setup,find_packages
 from typing import List
 
 
 PROJECT_NAME = 'housing_predictor'
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 AUTHOR = "Aniket"
 DESCRIPTION = "This is the first ML project"
 PACKAGE = ['housing']
@@ -21,7 +21,7 @@ setup(
     version = VERSION,
     author = AUTHOR,
     description=DESCRIPTION,
-    packages=PACKAGE,
+    packages=find_packages(),
     install_req = get_req_list()
     
 )
